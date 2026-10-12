@@ -1,6 +1,6 @@
 // VERSION 1: Change the text inside quotes. Keep the commas and brackets.
 const profile = {
-  name: "Your Name",
+  name: "Ashutosh Shelar",
   role: "First-year Computer Engineering Student",
   tagline: "Building small things. Learning something new every day.",
   about: "Hi! I'm a first-year student exploring programming and web development. I enjoy solving problems, learning with friends, and turning ideas into small projects.",
@@ -23,7 +23,7 @@ const profile = {
   ],
 
   // Paste your full https:// links. Empty quotes keep a link hidden.
-  github: "",
-  linkedin: "",
-  email: ""
+  github: "https://github.com/ashutoshshelar2409-prog",
+  linkedin: "https://www.linkedin.com/in/ashutosh-shelar-7986b5390/?isSelfProfile=true",
+  email: "ashutoshshelar2409@gmail.com"
 };
